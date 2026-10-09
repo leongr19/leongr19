@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+-this is my custom profile
+
 <!--
 **leongr19/leongr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
