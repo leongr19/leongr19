@@ -29,7 +29,7 @@ currently: Learning and building new things
 mindset: Learn something new every day-->
 
 
-- 🌐 I mainly focus on **Web Development**.
+- 🌐 I mainly focus on **Web Development** and **Android App Development**.
 - 🔐 I'm also deeply interested in **Cybersecurity**.
 - 💻 I enjoy exploring technologies and improving my coding skills.
 - 🚀 Always learning, experimenting, and working on new ideas.
@@ -46,7 +46,7 @@ mindset: Learn something new every day-->
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,discord,figma,cloudflare,kali,ubuntu,mysql&theme=dark" alt="Docker, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,discord,figma,cloudflare,kali,ubuntu,mysql,androidstudio&theme=dark" alt="Docker, Git, GitHub, VS Code" />
 
 </div>
 
@@ -68,6 +68,7 @@ mindset: Learn something new every day-->
 
 - 🌐 Improving my web development skills
 - 🔐 Exploring cybersecurity and security concepts
+- 🧰 Learn how to build a Linux USB driver
 - 🛠️ Practicing with different programming languages and tools
 - 📚 Learning something new every day
 
