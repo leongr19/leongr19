@@ -56,9 +56,9 @@ mindset: Learn something new every day-->
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=leongr19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leongr19&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=leongr19&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leongr19&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Most Used Languages" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=leongr19&langs_count=8&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=leongr19&langs_count=8&theme=dark_github)
 
 </div>
 
