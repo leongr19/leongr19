@@ -2,6 +2,9 @@
 
 - this is my custom profile
 
+<img width="2400" height="1600" alt="learn-git-branching-certificate-leon" src="https://github.com/user-attachments/assets/a29da923-c58e-4159-b564-0d076dd1e27c" />
+
+
 <!--
 **leongr19/leongr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
