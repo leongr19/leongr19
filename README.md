@@ -46,7 +46,7 @@ mindset: Learn something new every day-->
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,discord,figma,cloudflare,kali,ubuntu,mysql,androidstudio&theme=dark" alt="Docker, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,discord,figma,cloudflare,kali,ubuntu,mysql,androidstudio,flask&theme=dark" alt="Docker, Git, GitHub, VS Code" />
 
 </div>
 
