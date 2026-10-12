@@ -64,6 +64,14 @@ mindset: Learn something new every day-->
 
 ---
 
+<div align="center">
+
+<img width="2400" height="1600" alt="learn-git-branching-certificate-leon" src="https://github.com/user-attachments/assets/31d148c1-b564-47f0-bd29-a23028a33a0a" />
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 - 🌐 Improving my web development skills
