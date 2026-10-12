@@ -18,12 +18,15 @@
 
 
 
-username: leongr19 role: Beginner Developer main_focus:
+<!--username: leongr19 role: Beginner Developer 
 
-Web Development
+main_focus:
+Web Development,
 Cybersecurity
 
-currently: Learning and building new things mindset: Learn something new every day
+currently: Learning and building new things
+
+mindset: Learn something new every day-->
 
 
 - 🌐 I mainly focus on **Web Development**.
@@ -39,11 +42,11 @@ currently: Learning and building new things mindset: Learn something new every d
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,php&theme=dark" alt="HTML, CSS, JavaScript, Python, Java, C++, PHP" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,php,dart,flutter,arduino&theme=dark" alt="HTML, CSS, JavaScript, Python, Java, C++, PHP" />
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="Docker, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,discord,figma,cloudflare,kali,ubuntu,mysql&theme=dark" alt="Docker, Git, GitHub, VS Code" />
 
 </div>
 
